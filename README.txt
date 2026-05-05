@@ -1,0 +1,1 @@
+This software is available for academic and non-commercial research use under the PolyForm Noncommercial 1.0 License.
